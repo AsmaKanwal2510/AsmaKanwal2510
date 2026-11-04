@@ -1,88 +1,157 @@
 <div align="center">
 
-# Hi, I'm Aasma K. 👋
+# ASMA KANWAL
+### Developer&nbsp; × &nbsp;Designer
 
-### Full Stack Web Developer
+**I design & build full-stack web apps.**
 
-<p>
-  Building modern, scalable web applications from architecture to backend and frontend.
-</p>
+I enjoy taking ideas from a Figma frame to a working product —  
+from the database and API to the interface people actually use.
 
-<p>
-  📍 Rawalpindi, Pakistan
-</p>
+<br/>
 
-<p>
-  <a href="https://www.linkedin.com/in/aasma-k/">
-    <img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with me on LinkedIn" />
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/aasma-k/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="mailto:asmakanwal.edu.pk@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Say%20Hello-222222?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+&nbsp;
+<a href="https://asmakanwal2510.github.io/">
+  <img src="https://img.shields.io/badge/Portfolio-Explore-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+</a>
+
+<br/><br/>
+
+`FULL-STACK DEVELOPMENT` &nbsp; `UI DESIGN` &nbsp; `AI-ASSISTED WORKFLOWS`
 
 </div>
 
 ---
 
-## About Me
+## 01 / A little about me
 
-I'm a **Full Stack Web Developer** interested in building reliable, scalable, and user-focused web applications. I enjoy working across the development process—from planning application architecture and building backend systems to creating responsive frontend experiences.
+I'm **Asma Kanwal**, a full-stack web developer with a design-minded approach to building digital products. I like owning a feature end to end: shaping the interface, designing the underlying data structure, building the API, and connecting everything into a useful experience.
 
-My focus is on writing maintainable code, solving practical problems, and turning ideas into complete web products.
+My background in graphic design and Figma has shaped how I think about spacing, colour, typography, and usability. I bring that attention to detail into development, combining thoughtful interfaces with practical, maintainable engineering.
 
-```yaml
-role: "Full Stack Web Developer"
-domains:
-  - "Full-Stack Web Development"
-  - "Product Engineering"
-currently: "Leading AI-powered development across architecture, backend, and frontend."
-location: "Rawalpindi, Pakistan"
-education: "Rawalpindi Women University"
-```
+I'm currently completing my **BS in Computer Science at Rawalpindi Women University** and am open to **internship and entry-level opportunities**.
 
-## What I Do
+## 02 / What I do
 
-- **Frontend Development** — Build responsive, accessible, and user-friendly interfaces.
-- **Backend Development** — Develop application logic, APIs, and server-side functionality.
-- **Full-Stack Engineering** — Connect frontend experiences with reliable backend systems.
-- **Product Engineering** — Help turn ideas into practical, maintainable digital products.
-- **AI-Powered Development** — Explore ways to integrate AI into modern application workflows.
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
-## Skills & Technologies
+### ◈ Frontend development
+Build responsive, accessible interfaces with a focus on clear layouts, useful interactions, and consistent visual details.
 
-_Add your confirmed technologies here so this section accurately reflects your experience._
+    </td>
+    <td width="50%" valign="top">
 
-<!-- Example badge format — replace with technologies you actually use:
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-</p>
--->
+### ◈ Backend development
+Create server-side functionality, REST APIs, authentication, and database-backed features.
 
-## Featured Projects
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
 
-_Add your strongest public repositories here._
+### ◈ Full-stack applications
+Connect frontend, backend, and data layers to take an idea from its first structure to a deployed application.
 
-<!-- Copy and customize this block for each project:
-### [Project Name](YOUR_REPOSITORY_URL)
-A short description of the project, what it does, and your contribution.
+    </td>
+    <td width="50%" valign="top">
 
-**Tech stack:** Technology 1 · Technology 2 · Technology 3
--->
+### ◈ UI & product design
+Translate Figma concepts into working interfaces, bringing design thinking and development together.
 
-## Education
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
 
-🎓 **Rawalpindi Women University**
+### ◈ AI-assisted workflows
+Use AI to speed up drafts and repetitive tasks while staying hands-on: I review the code, understand the changes, and test the result before it goes live.
 
-## Connect With Me
+    </td>
+  </tr>
+</table>
 
-<p>
-  <a href="https://www.linkedin.com/in/aasma-k/">
-    <img src="https://img.shields.io/badge/LinkedIn-Aasma%20K.-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Aasma K. on LinkedIn" />
-  </a>
-</p>
+## 03 / Tech toolbox
+
+A selection of tools and technologies I work with:
+
+**Frontend**
+<br/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+
+**Backend & APIs**
+<br/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-444444?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_APIs-555555?style=flat-square" />
+<img src="https://img.shields.io/badge/Authentication-555555?style=flat-square" />
+
+**Databases**
+<br/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+
+**Design, tools & deployment**
+<br/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=111111" />
+
+## 04 / How I work with AI
+
+AI is part of my everyday development workflow — a way to move faster, not a replacement for understanding the work.
+
+- **I stay in control.** AI can suggest; I make the decisions and understand the code I use.
+- **I test what I build.** Automated tests and hands-on checks help verify that the result works, not just that it looks right.
+- **Faster, not careless.** I use AI for drafts and repetitive work so I can give more attention to design, quality, and security.
+
+## 05 / A little more
+
+| | |
+|:--|:--|
+| **Education** | BS Computer Science · Rawalpindi Women University |
+| **Languages** | English · Urdu · Pashto |
+| **Currently** | Final-year student · Open to internships and entry-level roles |
+| **Deployment** | Full-stack applications deployed on Render |
 
 ---
 
 <div align="center">
-  <sub>Thanks for visiting my profile! ✨</sub>
+
+### Have an idea in mind?
+
+I'm always happy to connect, collaborate, and build something useful.
+
+<a href="mailto:asmakanwal.edu.pk@gmail.com">
+  <img src="https://img.shields.io/badge/LET'S_TALK-222222?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Let's talk" />
+</a>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/aasma-k/">LinkedIn</a>
+&nbsp; · &nbsp;
+<a href="https://asmakanwal2510.github.io/">Portfolio</a>
+&nbsp; · &nbsp;
+<a href="https://github.com/AsmaKanwal2510">GitHub</a>
+
+<sub>Designed with intention. Built with curiosity.</sub>
+
 </div>
