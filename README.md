@@ -81,7 +81,7 @@ AI helps me move faster, but I stay responsible for the result: I read and under
 | | |
 |:--|:--|
 | **Education** | BS Computer Science · Rawalpindi Women University · 2023–2027 |
-| **Languages** | English · Urdu · Pashto |
+| **Languages** | English · Urdu |
 | **Currently** | Final-year student · Open to internships and entry-level roles |
 | **Deployment** | Full-stack applications deployed on Render |
 
